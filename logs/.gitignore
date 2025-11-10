@@ -1,0 +1,23 @@
+# === Logs del proyecto ===
+logs/
+*.log
+
+# === Archivos temporales de Linux ===
+*.swp
+*.swo
+*.tmp
+*~
+
+# === Archivos de backup de editores ===
+*.bak
+*.old
+
+# === Archivos de LibreOffice / Word (si exportás la memoria) ===
+*.pdf~
+.~lock*
+
+# === macOS finder (por si abrís desde Mac) ===
+.DS_Store
+
+# === Linux trash (si arrastrás desde GUI) ===
+.Trash-*
